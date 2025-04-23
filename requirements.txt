@@ -1,0 +1,15 @@
+streamlit
+PyMuPDF
+python-docx
+python-pptx
+pandas
+pytesseract
+Pillow
+numpy
+faiss-cpu
+sentence-transformers
+unidecode
+openai
+fpdf
+matplotlib
+tiktoken
