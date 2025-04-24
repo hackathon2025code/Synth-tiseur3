@@ -13,3 +13,4 @@ openai
 fpdf
 matplotlib
 tiktoken
+openpyxl
