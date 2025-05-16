@@ -17,7 +17,7 @@ from fpdf import FPDF  # Pour générer le PDF
 def get_client():
     return OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
-        api_key="nvapi-..."  # votre clé ici
+        api_key="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"  # votre clé ici
     )
 
 # --- FONCTIONS D'EXTRACTION (inchangées) ---
